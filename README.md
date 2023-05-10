@@ -1,3 +1,9 @@
+![DailyDose](https://github.com/Abhishekk-Singh/DailyDose-News-React/assets/130135134/e2a1ce28-8a77-4c2f-8342-9b97372c6d43)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
